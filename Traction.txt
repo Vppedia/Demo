@@ -1,0 +1,46 @@
+Client Id=3MVG9fe4g9fhX0E5f2NnIV8xDvLWXqTTTpC.xFrzoM7Asx5BnKMX2tbM5cSRex51l3_yW6JkW4jRPuCfsKYCf
+Secrete Key=A55DF559DCE31E7028EE2C77A15C43313CD6B56574893B2952220F654CDFD170
+
+security_token=ylwvAVq17O0A2ZU2LyixLzZN
+
+
+https://login.salesforce.com/services/oauth2/token?
+grant_type=password&client_id=3MVG9fe4g9fhX0E5f2NnIV8xDvLWXqTTTpC.xFrzoM7Asx5BnKMX2tbM5cSRex51l3_yW6JkW4jRPuCfsKYCf&client_secret=
+A55DF559DCE31E7028EE2C77A15C43313CD6B56574893B2952220F654CDFD170&username=pandeyvivek.info@gmail.com&password=Admin12345ylwvAVq17O0A2ZU2LyixLzZN
+
+
+https://login.salesforce.com/services/oauth2/token?grant_type=password&client_id=3MVG9fe4g9fhX0E5f2NnIV8xDvLWXqTTTpC.xFrzoM7Asx5BnKMX2tbM5cSRex51l3_yW6JkW4jRPuCfsKYCf&client_secret=A55DF559DCE31E7028EE2C77A15C43313CD6B56574893B2952220F654CDFD170&username=pandeyvivek.info@gmail.com&password=Admin12345ylwvAVq17O0A2ZU2LyixLzZN
+
+
+
+{"access_token":"00D5g000005H5KI!ARUAQL0EQp11TKeThkvzeT5mGQXGpfCm6OD1Iqmxo6UsMUwJ8NdHl5DMjqFcaurwf3jUMtEf5KRWsaOyVM..5KG_I4Bk0r2_","instance_url":"https://d5g000005h5kiea0-dev-ed.my.salesforce.com","id":"https://login.salesforce.com/id/00D5g000005H5KIEA0/0055g000009BxqdAAC","token_type":"Bearer","issued_at":"1623042966888","signature":"QxxPWzl7FdSm3OlnF0d0lSfWgMlPvR/5KuzaYxTv5Gw="}
+
+
+
+Salesforce.com Enterprise Web Services API Version 51.0
+
+
+
+query to fire
+---------------
+https://ap5.salesforce.com/services/data/v51.0/query?q=select Name,Phone from Account
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"access_token":"00D5g000005H5KI!ARUAQL0EQp11TKeThkvzeT5mGQXGpfCm6OD1Iqmxo6UsMUwJ8NdHl5DMjqFcaurwf3jUMtEf5KRWsaOyVM..5KG_I4Bk0r2_","instance_url":"https://d5g000005h5kiea0-dev-ed.my.salesforce.com","id":"https://login.salesforce.com/id/00D5g000005H5KIEA0/0055g000009BxqdAAC","token_type":"Bearer","issued_at":"1623044679795","signature":"tGft6neHPBfaMu2+Bd3pXM+LEea4uGdDfr45/hJNxvU="}
